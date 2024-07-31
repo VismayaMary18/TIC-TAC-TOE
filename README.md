@@ -1,9 +1,9 @@
 # Game Screenshots..
 
 
-![snapshot1](screenshot - 1.png)
-![snapshot2](screenshot - 2.png)
-![snapshot3](screenshot - 3.png)
-![snapshot4](screenshot - 4.png)
+![snapshot1](Screenshot - 1.png)
+![snapshot2](Screenshot - 2.png)
+![snapshot3](Screenshot - 3.png)
+![snapshot4](Screenshot - 4.png)
 
 
